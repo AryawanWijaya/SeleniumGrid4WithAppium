@@ -1,0 +1,12 @@
+[node]
+detect-drivers = false
+
+[relay]
+# Default Appium server endpoint
+url = "http://localhost:4723"
+status-endpoint = "/status"
+# Stereotypes supported by the service. The initial number is "max-sessions", and will allocate 
+# that many test slots to that particular configuration
+configs = [
+  "1", "{\"appium:deviceName\": \"emulator-5554\", \"platformName\": \"android\", \"appium:platformVersion\": \"14\", \"appium:automationName\": \"UiAutomator2\"}"
+]
