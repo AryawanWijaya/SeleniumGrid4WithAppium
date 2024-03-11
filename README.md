@@ -15,7 +15,7 @@ This automation code created to test the connection between selenium grid 4 and 
 5. create your node at selenium grid
 
 ## How to run
-More detail you can follow this [tutorial](http://localhost:4444/ui)
+More detail you can follow this [tutorial](https://www.linkedin.com/pulse/setting-up-selenium-grid-4-appium-2-nikolaus-aryawan-ravato-wijaya-ca87c/)
 
 ### Selenium grid4 with appium server 2
 ![alt text](https://github.com/AryawanWijaya/SeleniumGrid4WithAppium/blob/master/seleniumgrid4-with-appiumserver2.png?raw=true)
